@@ -1084,7 +1084,6 @@ const Dashboard = () => {
                             </div>
                         </div>
 
-
                     </div>
 
                     {/* -------------------- Praticipants Table -------------------- */}
@@ -1109,7 +1108,6 @@ const Dashboard = () => {
                                 <button className='text-blue-color border-light-gray border-radius-8 px-3 py-2 font-14 montserrat-medium bg-light-white-1-color'>
                                     Add Leads <GoPlus className='ms-2 font-24' />
                                 </button>
-
                                 <button className='text-blue-color border-light-gray border-radius-8 px-3 py-2 font-14 montserrat-medium bg-light-white-1-color'>
                                     Export <PiExport className='ms-2 font-24' />
                                 </button>
