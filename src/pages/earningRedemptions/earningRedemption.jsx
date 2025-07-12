@@ -594,7 +594,6 @@ const EarningRedemption = () => {
                                                     </ul>
                                                 </div>
                                             </div>
-
                                             <div className="tab-content mt-3 px-3">
                                                 {tabs.map((tab, index) => (
                                                     <div
